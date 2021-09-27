@@ -1,0 +1,25 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: font-family: 'Poppins', sans-serif;
+}
+p{
+    font-size: 16px;
+}
+/* ============= header section ================ */
+header{
+    background-color: #264653;
+    height: 100vh;
+}
+/* .honda-info{
+    height: 100vh;
+} */
+
+.purchase-btn{
+    background-color: #E76F51;
+}
+/* Fetured section  */
+.honda-fetured-info, .star , .highliht{
+    color: #E76F51;
+}
+/* Happy Clients section */
